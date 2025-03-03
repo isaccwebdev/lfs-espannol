@@ -1,6 +1,6 @@
 site_name: My Docs
 nav:
-  - Inicio: index.md
+  - Inicio: site/index.html
   - Instalación: cap1.md
   - API:
       - Configuración Avanzada: extras/test.md
