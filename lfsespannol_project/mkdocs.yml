@@ -1,0 +1,9 @@
+site_name: My Docs
+nav:
+  - Inicio: index.md
+  - Instalación: cap1.md
+  - API:
+      - Configuración Avanzada: extras/test.md
+  
+theme:
+  name: material  # Usa el tema "Material" (opcional)
